@@ -1,4 +1,6 @@
-This program was created to demonstrate the quality of one of the most popular Swedish school platforms. Alongside it being slow, buggy and old, it also has security flaws. I hate this platform more than anything else and I hope it sees its demise soon.
+**SchoolSoft Credentials Stealer**
+
+This program was created to demonstrate the quality of one of the most popular Swedish school platforms. Alongside it being slow, buggy and old, it also has a ton of security flaws. I hate this platform more than anything else and I hope it sees its demise soon.
 
 Depends on Titanium Web Proxy.
 
