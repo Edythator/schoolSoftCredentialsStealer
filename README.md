@@ -4,6 +4,6 @@ This program was created to demonstrate the quality of one of the most popular S
 
 Depends on Titanium Web Proxy.
 
-This program is only made for educational purposes and nothing else. I do not codone of using this program for any type of illegal activity.
+This program is only for educational purposes and nothing else. I do not codone of using this program for any type of illegal activity.
 
 Licensed under MIT.
